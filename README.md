@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Aditya Aryan
-**A passionate Machine Engineer || Full Stack || Data Analysis**
+**A passionate Machine Learning Enthusiast || Full Stack || Data Analytics**
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **adityaaryann.work@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** CRM Web App
 - 🌱 **I’m currently learning:** Django
