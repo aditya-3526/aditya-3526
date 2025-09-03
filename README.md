@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **adityaaryann.work@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** CRM Web App
+- 🔭 **I’m currently working on:** No current 
 - 🌱 **I’m currently learning:** Django
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** adityaaryann.work@gmail.com
